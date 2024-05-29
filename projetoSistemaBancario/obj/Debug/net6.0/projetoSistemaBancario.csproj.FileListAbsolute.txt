@@ -1,0 +1,17 @@
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\bin\Debug\net6.0\projetoSistemaBancario.exe
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\bin\Debug\net6.0\projetoSistemaBancario.deps.json
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\bin\Debug\net6.0\projetoSistemaBancario.runtimeconfig.json
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\bin\Debug\net6.0\projetoSistemaBancario.dll
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\bin\Debug\net6.0\projetoSistemaBancario.pdb
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.csproj.AssemblyReference.cache
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.AssemblyInfoInputs.cache
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.AssemblyInfo.cs
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.dll
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\refint\projetoSistemaBancario.dll
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.pdb
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.genruntimeconfig.cache
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\ref\projetoSistemaBancario.dll
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.Properties.Resources.resources
+C:\Users\Messi\Desktop\Projetos c#\projetoSistemaBancario\projetoSistemaBancario\obj\Debug\net6.0\projetoSistemaBancario.csproj.GenerateResource.cache

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "projetoSistemaBancario": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Messi\\Desktop\\Projetos c#\\projetoSistemaBancario",
+      "remoteDebugEnabled": false
+    }
+  }
+}
