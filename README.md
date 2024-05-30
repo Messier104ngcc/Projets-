@@ -1,0 +1,2 @@
+Pequeno projeto de uma atividade passada no curso jovem Programador, na matéria desenvolvedor de sistemas, sistema bancário onde é solicitado um cadastro de conta e senha, onde caso as informações estejam corretas, seguirá para o menu de opções, caso a conta e a senha não estejam corretas,
+entrará no tratamento de tentativas de senha, caso as tentativas ultrapassem 3, será bloqueado de imediato a conta.  
